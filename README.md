@@ -3,7 +3,4 @@
 - 🏆 I enjoy Hockey, Soccer, Golfing, Skiing and Mountain Biking
 
 
-
-
-
 <h1> ✍️ Coding Languages </h1>
