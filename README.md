@@ -1,6 +1,4 @@
-<h1 style="font-family:Helvetica"><center>My Trip to Whistler</center></h1>
-
-
+<t1> My Info </t1>
 
 - 👋 Hi, I'm Cameron Gonsalves
 - 🏫 I'm a student at Sacred Heart High School
