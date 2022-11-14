@@ -1,4 +1,4 @@
-<t1> My Info </t1>
+<h1> My Info </h1>
 
 - 👋 Hi, I'm Cameron Gonsalves
 - 🏫 I'm a student at Sacred Heart High School
